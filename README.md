@@ -14,5 +14,5 @@ Welcome to the Gym Application! This project is built using HTML, CSS, JavaScrip
 - **JavaScript**: For adding interactivity and dynamic features.
 - **Bootstrap**: For responsive design and pre-built UI components.
 
-  ##For Demo
+  ## For Demo 
    https://vikramtak08.github.io/Gym-Application/
